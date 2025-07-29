@@ -1,24 +1,23 @@
-# Dmitrii Marchenko
+# Привет, меня зовут Дмитрий Николаевич Марченко 👋
 
-## About me
-...
-## Technologies
-...
-## Hobies
-...
-## Conacts
-...
-<!--
-**Dima011099/Dima011099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой GitHub!  
+Я люблю писать программы и сайта, нравится экспериментировать и создавать что-то новое.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Arch-based Linux (Manjaro)
+- 🧠 Языки: PHP, HTML/CSS, Dart,Bash, C/C++, JavaScript, Java, Kotlin, C#
+- ⚙️ Работа с: systemd, docker, nginx, git, zsh
+- 🧰 Интересуюсь: веб-разработкой, автоматизацией, разработкой ПО для Linux и Windows, созданием видеоигр.
+
+---
+
+## 📫 Как связаться
+
+- Telegram: [@DmITU99](https://t.me/DmITU99)
+- Email: `uengein4@gmail.com`
+
+---
+
+### Спасибо, что заглянул! Удачи и хорошего дня
