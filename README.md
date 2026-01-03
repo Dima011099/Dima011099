@@ -18,14 +18,14 @@
 ---
 
 ### 📫 Как со мной связаться
-*   **Telegram:** [@DmITU99](t.me)
+*   **Telegram:** [@DmITU99](https://t.me/DmITU99)
 *   **Email:** [uengein4@gmail.com](mailto:uengein4@gmail.com)
 
 ---
 
 ### 📊 Статистика профиля
-![GitHub Stats](github-readme-stats.vercel.app)
-![Top Langs](github-readme-stats.vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dima011099)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Dima011099)
 
 ---
 *Спасибо, что заглянули! Удачи и хорошего дня!* 😊
