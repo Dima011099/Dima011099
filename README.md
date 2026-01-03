@@ -22,10 +22,4 @@
 *   **Email:** [uengein4@gmail.com](mailto:uengein4@gmail.com)
 
 ---
-
-### 📊 Статистика профиля
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dima011099)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Dima011099)
-
----
 *Спасибо, что заглянули! Удачи и хорошего дня!* 😊
