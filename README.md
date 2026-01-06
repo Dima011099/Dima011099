@@ -21,5 +21,8 @@
 *   **Telegram:** [@DmITU99](https://t.me/DmITU99)
 *   **Email:** [uengein4@gmail.com](mailto:uengein4@gmail.com)
 
+## 🔗 Ссылки на проекты
+* 🌍 Мой личный сайт: [dima-web.ru](https://dima-web.ru)
+* 🛠️ Мои моды на CurseForge: [ссылка на профиль](https://www.curseforge.com/members/dmitrii011099/projects)
 ---
 *Спасибо, что заглянули! Удачи и хорошего дня!* 😊
