@@ -1,4 +1,4 @@
-# Hi! I'm Dmitry Marchenko 👋
+# Hi! I'm Dmitrii Marchenko 👋
 ### Software Developer | Web Creator | Game Modder
 
 [English](#english) | [Русский](#russian)
