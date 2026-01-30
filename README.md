@@ -50,7 +50,7 @@ I work at the intersection of **software development, system customization, and 
 
 ## Featured Projects
 
-### 🔹 SwiftFlow
+### 🔹 Task Minimal
 Minimalist task manager built with Flutter.  
 Designed to eliminate visual clutter and focus on actionable tasks instead of complex UI.
 
