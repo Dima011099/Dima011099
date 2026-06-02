@@ -22,7 +22,7 @@ I work at the intersection of **software development, system customization, and 
 ### 📱 Application Development
 - Cross-platform application development with **Flutter (Dart)**
 - Focus on **minimal UX**, clarity, and task-oriented interfaces
-- Creator of **SwiftFlow** — a minimalist task manager designed to reduce cognitive load
+- Creator of **T Minimal** — a minimalist task manager designed to reduce cognitive load
 
 ### 🎮 Game Development & Modding
 - Game modding and gameplay systems development
